@@ -63,7 +63,7 @@ export default function Show(props) {
         </div>
       ) : (
         <div className="pass">
-          <p>data removed</p>
+          <p>data is being removed</p>
         </div>
       )}
     </div>
